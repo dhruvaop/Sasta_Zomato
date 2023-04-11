@@ -2,13 +2,8 @@
 
 This is a clone app of Zomato, a popular food delivery platform. The app is built using Firebase, React Native, and Expo CLI.
 
-
-
-
-<img src="https://user-images.githubusercontent.com/57634381/131633790-5c6a360e-738b-4a15-81d9-d0e7c8205794.png" href = "https://www.github.com/dhruvaop/Sasta_zomato/raw/ninjas/FINAL%20APK/FoodApp-0a7e8e490a814521ad2023ba0ae59474-signed%20(1).apk" align="left"
+<img src="https://user-images.githubusercontent.com/71749153/231285132-ba445a8e-ee5f-4a78-a34d-1ece4e9be6a3.png" href = "https://www.github.com/dhruvaop/Sasta_zomato/raw/ninjas/FINAL%20APK/FoodApp-0a7e8e490a814521ad2023ba0ae59474-signed%20(1).apk" align="left"
 width="200" hspace="10" vspace="10">
-
-
 
 ## Features
 The app has the following features:
