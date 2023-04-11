@@ -15,7 +15,6 @@ width="445" hspace="10" vspace="10">
 - View restaurant details such as menu, reviews, and ratings
 - Add items to the cart and place an order
 - View order history and status updates
-- View user profile and edit details
 
 ## Technology Stack
 The app is built using the following technology stack:
