@@ -15,15 +15,15 @@ The app has the following features:
 ## Technology Stack
 The app is built using the following technology stack:
 
-## Firebase - for backend services such as authentication, database, and storage
-## React Native - for building the mobile app
-## Expo CLI - for managing the app development and building process
+- Firebase - for backend services such as authentication, database, and storage
+- React Native - for building the mobile app
+-- Expo CLI - for managing the app development and building process
 
 # Prerequisites
 Before running the app, you need to install the following software:
 
 `Node.js
-Expo CLI
+Expo Cli
 Installation`
 
 To install the app, follow these steps:
