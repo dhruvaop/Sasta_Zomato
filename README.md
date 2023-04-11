@@ -5,7 +5,8 @@ This is a clone app of Zomato, a popular food delivery platform. The app is buil
 <img src="https://user-images.githubusercontent.com/71749153/231285132-ba445a8e-ee5f-4a78-a34d-1ece4e9be6a3.png" align="left"
 width="200" hspace="10" vspace="10">
 
-[![Download](https://afrobrains.com/wp-content/uploads/2022/09/3047b-kisspng-brand-logo-product-design-label-download-now-button-black-png-image-transparent-h-5b8ebba7c236e4.4749926815360808077955.jpg)](https://www.github.com/dhruvaop/Sasta_zomato/raw/ninjas/FINAL%20APK/FoodApp-0a7e8e490a814521ad2023ba0ae59474-signed%20(1).apk)
+[![Download](https://user-images.githubusercontent.com/71749153/231287245-1ede118b-4244-4da8-a1ec-0e1d94eaccf5.png)](https://www.github.com/dhruvaop/Sasta_zomato/raw/ninjas/FINAL%20APK/FoodApp-0a7e8e490a814521ad2023ba0ae59474-signed%20(1).apk)
+
 
 ## Features
 The app has the following features:
