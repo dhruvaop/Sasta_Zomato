@@ -8,7 +8,7 @@ width="450" hspace="10" vspace="10">
 <img src="https://i.pinimg.com/736x/40/79/d4/4079d404446d52f57e9d426c80efa6e1.jpg" align="centre" width="20px"><a href="https://www.github.com/dhruvaop/Sasta_zomato/raw/ninjas/FINAL%20APK/FoodApp-0a7e8e490a814521ad2023ba0ae59474-signed%20(1).apk">DOWNLOAD</a>
 
 ## Features
-The app has the following features:
+`The app has the following features:`
 
 - User registration and login
 - Browse and search for restaurants
