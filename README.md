@@ -17,7 +17,7 @@ The app is built using the following technology stack:
 
 - Firebase - for backend services such as authentication, database, and storage
 - React Native - for building the mobile app
--- Expo CLI - for managing the app development and building process
+- Expo CLI - for managing the app development and building process
 
 # Prerequisites
 Before running the app, you need to install the following software:
@@ -26,28 +26,34 @@ Before running the app, you need to install the following software:
 Expo Cli
 Installation`
 
-To install the app, follow these steps:
+## To install the app, follow these steps:
 
-Clone this repository using git clone https://github.com/<username>/zomato-clone-app.git
-Navigate to the project directory using cd zomato-clone-app
-Install dependencies using npm install
-Run the app using expo start
-Configuration
+- Clone this repository using `git clone https://github.com/dhruvaop/Sasta_zomato.git`
+- Navigate to the project directory using cd zomato-clone-app
+- Install dependencies using `npm install` or `npm i` or by yarn `npm install --global yarn`
+- Run the app using `expo start` or `npm start`
+
+## Configuration
 The app requires the following configuration:
 
-Firebase configuration - add your Firebase project configuration to the firebase.js file in the src directory
-Usage
+- Firebase configuration - add your Firebase project configuration to the `Firebase/firebaseConfig.js` file in the src directory or just press `t` to search
+
+## Usage
 To use the app, follow these steps:
 
-Launch the app on an Android or iOS device using the Expo Go app or an emulator
-Register or log in to your account
-Browse and search for restaurants
-View restaurant details such as menu, reviews, and ratings
-Add items to the cart and place an order
-View order history and status updates
-View user profile and edit details
-Credits
-The app is developed by [Your Name].
+- Launch the app on an Android or iOS device using the Expo Go app or an emulator
+- Register or log in to your account
+- Browse and search for restaurants
+- View restaurant details such as menu, reviews, and ratings
+- Add items to the cart and place an order
+- View order history and status updates
+- View user profile and edit details
 
-License
-The app is licensed under the MIT License. Feel free to use it for personal or commercial projects.
+## Credits
+The app is developed by <a href="https://github.com/dhruvaop">Dhruva Bhattacharya</a>
+
+## License
+The app is licensed under the MIT License. Feel free to use it for personal or commercial projects [MIT](https://choosealicense.com/licenses/mit/).
+
+## Support
+For support, email dhruvabhattacharya130102@gmail.com 
